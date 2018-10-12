@@ -41,3 +41,5 @@ def dfs(graf, mulai, tujuan):
         isi = len(stack)
         if isi == 0:
             print("Tidak ditemukan")
+            
+            
